@@ -10,6 +10,7 @@ The original documentation can be found on MSDN_.
 
 Example
 -------
+::
 
     from winmoncon import PhysicalMonitors
     
