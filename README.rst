@@ -1,7 +1,7 @@
 winmoncon
 =========
 
-A Python inteface to the Windows Monitor Configuration API.
+A Python interface to the Windows Monitor Configuration API.
 
 Controls the display parameters like brightness, contrast, and color temperature, through DCC/CI, using the Windows
 Monitor Configuration functions.
