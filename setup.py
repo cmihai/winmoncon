@@ -10,17 +10,17 @@ with open(path.join(here, 'README.rst')) as f:
 
 setup(
     name='winmoncon',
-    version='0.0.0',
+    version='0.0.1',
     description='A Python inteface to the Windows Monitor Configuration API',
     long_description=long_description,
     author='Mihai Ciumeică',
-    license='MIT',
+    license='Public Domain',
     classifiers=[
         'Development Status :: 3 - Alpha',
 
         'Intended Audience :: Developers',
 
-        'License :: OSI Approved :: MIT License',
+        'License :: Public Domain',
 
         'Programming Language :: Python :: 2',
         'Programming Language :: Python :: 2.7'
